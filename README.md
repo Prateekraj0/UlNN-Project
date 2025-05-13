@@ -1,2 +1,2 @@
 # UlNN-Project-Prateek-Raj-
-Skill Based Job Recommendation System
+Skill Based Career Recommendation System
