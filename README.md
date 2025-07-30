@@ -17,10 +17,10 @@ It is implemented as a web application using Streamlit and scikit-learn, using s
 
 📌 Step-by-Step Workflow:
 
-User inputs their skills using checkboxes.
-System vectorizes skills using MultiLabelBinarizer.
-KMeans clustering groups similar job roles.
-KNN recommends jobs that best match user’s profile.
-Missing skills are extracted via vector difference.
-Mapped learning resources are suggested for each gap.
-Everything is shown instantly via the Streamlit frontend.
+User inputs their skills using checkboxes. 
+System vectorizes skills using MultiLabelBinarizer. 
+KMeans clustering groups similar job roles. 
+KNN recommends jobs that best match user’s profile. 
+Missing skills are extracted via vector difference. 
+Mapped learning resources are suggested for each gap. 
+Everything is shown instantly via the Streamlit frontend. 
