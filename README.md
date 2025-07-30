@@ -14,7 +14,9 @@ It is implemented as a web application using Streamlit and scikit-learn, using s
 
 
 🧠 How It Works
+
 📌 Step-by-Step Workflow:
+
 User inputs their skills using checkboxes.
 System vectorizes skills using MultiLabelBinarizer.
 KMeans clustering groups similar job roles.
