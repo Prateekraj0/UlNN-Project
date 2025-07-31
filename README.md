@@ -1,4 +1,4 @@
-kill-Based Job Recommendation System 💼🚀
+Skill-Based Job Recommendation System 💼🚀
 A lightweight, interpretable, and modular machine learning system that recommends jobs based on your current skillset, highlights your skill gaps, and suggests a personalized learning path to bridge them.
 
 🔍 Overview
